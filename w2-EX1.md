@@ -15,7 +15,7 @@ HELP TABLE store_msa;
 HELP TABLE strinfo;
 HELP TABLE trnsact;
 
-
+HELP COLUMN skuinfo.sku
 
 SHOW TABLE deptinfo;
 SHOW TABLE skstinfo;
