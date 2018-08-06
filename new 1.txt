@@ -1,9 +1,0 @@
-Describe in the words the data that would be contained in a table made to reflect
-the relation.
-  Information about <entity> is being tracked and will be made into a table
- called <"entityname"> in a database. For each <entity >, the <attributes> is 
- recorded and will be entered as separate column. Each combination of values 
- in <atrributes1> and <attributes2> will be unique, but each value on their own,
- does not have to be unique.values in <attributes>do not have to be unique.
- The <attrbute> will serve as primary key/The <attrbute1 and attirbute2>will
- serve as a composite primary key .
