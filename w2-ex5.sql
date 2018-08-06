@@ -1,4 +1,4 @@
-/5a/
+
 
 
 SELECT  * FROM trnsact WHERE orgprice = '0';
